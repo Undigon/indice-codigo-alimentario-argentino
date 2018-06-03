@@ -1,0 +1,114 @@
+{
+	"capítulo": {
+        "1": {
+            "artículos": [1, 11],
+            "contenido": "Disposiciones Generales",
+            "actualizado": "9/2010"
+        },
+        "2": {
+            "artículos": [12, 154],
+            "contenido": "Condiciones Generales de las Fábricas y Comercios de Alimentos",
+            "actualizado": "10/2010"
+        },
+        "3": {
+            "artículos": [155, 183],
+            "contenido": "De los Productos Alimenticios",
+            "actualizado": "10/2017"
+        },
+        "4": {
+            "artículos": [184, 219],
+            "contenido": "Utensilios, Recipientes, Envases, Aparatos y Accesorios",
+            "actualizado": "10/2017"
+        },
+        "5": {
+            "artículos": [220, 246],
+            "contenido": "Normas para la Rotulación y Publicidad de los Alimentos",
+            "actualizado": "10/2017"
+        },
+        "6": {
+            "artículos": [247, 519],
+            "contenido": "Alimentos Cárneos y Afines",
+            "actualizado": "2/2018"
+        },
+        "7": {
+            "artículos": [520, 552],
+            "contenido": "Alimentos Grasos, Aceites Alimenticios",
+            "actualizado": "10/2017"
+        },
+        "8": {
+            "artículos": [553, 642],
+            "contenido": "Alimentos Lácteos",
+            "actualizado": "10/2014"
+        },
+        "9": {
+            "artículos": [643, 766],
+            "contenido": "Alimentos Farináceos - Cereales, Harinas y Derivados",
+            "actualizado": "2/2018"
+        },
+        "10": {
+            "artículos": [767, 818],
+            "contenido": "Alimentos Azucarados",
+            "actualizado": "9/2010"
+        },
+        "11": {
+            "artículos": [819, 981],
+            "contenido": "Alimentos Vegetales",
+            "actualizado": "10/2017"
+        },
+        "12": {
+            "artículos": [982, 1079],
+            "contenido": "Bebidas Hídricas, Agua y Agua Gasificada",
+            "actualizado": "10/2012"
+        },
+        "13": {
+            "artículos": [1080, 1107],
+            "contenido": "Bebidas Fermentadas",
+            "actualizado": "2/2017"
+        },
+        "14": {
+            "artículos": [1108, 1136],
+            "contenido": "Bebidas Espirituosas, Alcoholes, Bebidas Alcohólicas Destiladas y Licores",
+            "actualizado": "7/2012"
+        },
+        "15": {
+            "artículos": [1137, 1198],
+            "contenido": "Productos Estimulantes o Fruitivos",
+            "actualizado": "2/2018"
+        },
+        "16": {
+            "artículos": [1199, 1338],
+            "contenido": "Correctivos y Coadyuvantes",
+            "actualizado": "2/2018"
+        },
+        "17": {
+            "artículos": [1339, 1390],
+            "contenido": "Alimentos de Régimen o Dietéticos",
+            "actualizado": "2/2018"
+        },
+        "18": {
+            "artículos": [1391, 1406],
+            "contenido": "Aditivos Alimentarios",
+            "actualizado": "2/2018"
+        },
+        "19": {
+            "artículos": [1407, 1412],
+            "contenido": "Harinas, Concentrados, Aislados y Derivados Proteínicos",
+            "actualizado": "9/2010"
+        },
+        "20": {
+            "artículos": [1413, 1414],
+            "contenido": "Metodología Analítica Oficial",
+            "actualizado": "9/2010"
+        },
+        "21": {
+            "artículos": [1415, 1416],
+            "contenido": "Procedimientos",
+            "actualizado": "9/2010"
+        },
+        "22": {
+            "artículo": [1417, null],
+            "contenido": "Miscelaneos",
+            "actualizado": "2/2018"
+        }
+    }
+}
